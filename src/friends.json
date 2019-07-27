@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/character-images-main/Mario_SSBU.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/character-images-main/Kirby_SSBU.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://img.rankedboost.com/wp-content/uploads/2018/12/Samus-Super-Smash-Bros-Ultimate.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/character-images-main/Ness_SSBU.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://img.rankedboost.com/wp-content/uploads/2018/12/Sonic-Super-Smash-Bros-Ultimate.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/character-images-main/Zelda_SSBU.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://img.rankedboost.com/wp-content/uploads/2018/12/Link-Super-Smash-Bros-Ultimate.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/alt-costumes/Greninja_SSBU_Costumes%20(1).png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://img.rankedboost.com/wp-content/uploads/2018/12/bayonetta_SSBU.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://img.rankedboost.com/wp-content/uploads/2018/12/Pit-Super-Smash-Bros-Ultimate.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/alt-costumes/Fox_SSBU_Costumes%20(1).png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/character-images-main/Pikachu_SSBU.png",
+    "clicked": false
+  }
+]
+
+
+

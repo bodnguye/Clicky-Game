@@ -71,7 +71,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="Super Mario Clicky Game"
+          title="Super Smash Bros Clicky"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           correctIncorrect={this.state.correctIncorrect}
