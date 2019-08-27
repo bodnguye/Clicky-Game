@@ -1,10 +1,16 @@
 nav {
   width: 100%;
   font-size: 3rem;
-  color: #fff;
+  color: rgb(134, 134, 134);
   margin-bottom: 50px;
-  background-color: #333333;
-  height: auto;
+  background-color: #f3f3f3;
+  background-image: url('https://wallpaper-gallery.net/images/super-smash-bros-logo-wallpaper/super-smash-bros-logo-wallpaper-7.jpg');
+  background-size:     cover;                      
+  background-repeat:   no-repeat;
+  background-position: center center; 
+  width: 100%;
+  height: auto; 
+
   font-family: 'Sanchez', serif, cursive;
 }
 
