@@ -17,4 +17,5 @@ A memory game with React that will require to break up application's UI into com
 ## Demo
 [Click here to Demo!](https://secure-inlet-08487.herokuapp.com)
 
+## Preview
 ![Results](/public/clicky.png)
